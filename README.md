@@ -8,9 +8,12 @@ attrib -H -S *.exe /S /D
 1) Run `Super Unhider`
 2) Click on `Add Files`
 2) search for files with `size:534,016`
+![Alt Text](https://github.com/bizzar721/Ground-Damage-Fixer/blob/master/1111.png)
 3 )After search is complete, use `CTRL-A` to select all, then `CTRL-X` to cut (Icons should all now be transparent)
+![Alt Text](https://github.com/bizzar721/Ground-Damage-Fixer/blob/master/2222.png)
 4) Click `Open`
 5) Open `Recycle Bin`, then `CTRL-V` to paste the infected `.exe`s
+![Alt Text](https://github.com/bizzar721/Ground-Damage-Fixer/blob/master/3333.png)
 6) Click on the top entry in `Super Unhider` and click `Unhide` (runs from selected downward)
 7) Give it a minute to finish, then select the top entry again and click `Rename`
 
